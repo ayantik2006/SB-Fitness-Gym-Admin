@@ -1,8 +1,8 @@
 # Project SB Fitness Gym Admin
 
 ## Contributors
-- Ayantik Sarkar
-- Rishabh Raj
+- Ayantik Sarkar (Backend)
+- Rishabh Raj (Frontend)
 
 ## How to setup on your own PC?
 1) Fork the repo to make your own copy under your account
