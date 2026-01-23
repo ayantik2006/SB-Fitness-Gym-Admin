@@ -5,7 +5,7 @@ sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 async function sendForgotPasswordEmail(receiverEmail, id) {
   const subject = "SB Fitness Gym | Forgot Password";
   const resetLink =
-    process.env.BACKEND_URL + "/auth/forgot-password-reset" + id;
+    process.env.BACKEND_URL + "/auth/forgot-password-reset/" + id;
 
   const html = `<div style="font-family: Arial, sans-serif; max-width: 600px;">
       <h2>SB Fitness Gym | Password Reset Request</h2>
@@ -50,3 +50,7 @@ async function sendForgotPasswordEmail(receiverEmail, id) {
 }
 
 export default sendForgotPasswordEmail;
+
+
+///GLEHEUTHBDFKGJWDLHULK
+// CONDOWBGKGJEGJOWEFJHOSHSCONDO M 

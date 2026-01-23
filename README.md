@@ -2,7 +2,7 @@
 
 ## Contributors
 - Ayantik Sarkar (Backend)
-- Rishabh Raj (Frontend)
+- Rishav Raj (Frontend)
 
 ## How to setup on your own PC?
 1) Fork the repo to make your own copy under your account
